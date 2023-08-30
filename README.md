@@ -1,2 +1,2 @@
-# project
+# PROJECT
 Rock,Paper,Scissors
